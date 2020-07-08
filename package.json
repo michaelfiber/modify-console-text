@@ -21,5 +21,6 @@
   "homepage": "https://github.com/michaelfiber/modify-console-text#readme",
   "devDependencies": {
     "typescript": "^3.9.6"
-  }
+  },
+  "files": ["lib/**/*"]
 }

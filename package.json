@@ -1,0 +1,25 @@
+{
+  "name": "modify-console-text",
+  "version": "1.0.0",
+  "description": "Dead simple function to modify how text appears in console.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelfiber/modify-console-text.git"
+  },
+  "keywords": ["console", "format"],
+  "author": "michaelfiber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelfiber/modify-console-text/issues"
+  },
+  "homepage": "https://github.com/michaelfiber/modify-console-text#readme",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
